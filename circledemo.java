@@ -3,6 +3,7 @@
  * @description: This program calculate area and circumference of a circle with
  * the user interaction. User will be prompt to enter the radius and the result
  * will be calculated base on the provided radius value.
+ * Another version to see how is working
  */
 
 package ro.testjava.circledemo;
